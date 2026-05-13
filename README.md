@@ -75,8 +75,8 @@ Add screenshots of:
 ## Contributors
 
 - Omar Ahmed (omar2301433)
-- Ahmed maged
-- Mostafa wael (
+- Ahmed maged (Ahmed195742)
+- youssif albir (youssefalbir)
 
 ## License
 
